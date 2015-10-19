@@ -5,4 +5,4 @@ Compared GSA airfare spending against quarterly US DOT AVG Flight Fares* for cor
 (*http://www.rita.dot.gov/bts/airfares)
  
  
-See live at https://gsa-hackathon.demo.socrata.com/view/6idb-efh7  
+See live at https://gsa-hackathon.demo.socrata.com/view/ear7-vfr5
